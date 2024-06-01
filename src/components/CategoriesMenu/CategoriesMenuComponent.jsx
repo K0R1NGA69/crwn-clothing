@@ -2,7 +2,7 @@ import React from "react";
 import CategoryItem from "../CategoryItem/CategoryItemComponent";
 import "./categoriesMenu.style.scss";
 
-const CategoriesMenuComponent = ({categories}) => {
+const CategoriesMenu = ({categories}) => {
 	
 	return (
 		<div className="categories-container">
@@ -13,4 +13,4 @@ const CategoriesMenuComponent = ({categories}) => {
 	);
 };
 
-export default CategoriesMenuComponent;
+export default CategoriesMenu;
