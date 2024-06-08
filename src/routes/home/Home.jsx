@@ -1,5 +1,5 @@
 import React from 'react'
-import CategoriesMenu from '../../components/CategoriesMenu/CategoriesMenuComponent';
+import CategoriesMenu from '../../components/CategoriesMenu/CategoriesMenu';
 
 const Home = () => {
   const categories = [
